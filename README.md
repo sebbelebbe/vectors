@@ -10,6 +10,8 @@ point a = 4,3 point b= 7,8 vector = 3,5
 3^2 + 5^2 = 34  √34 = 5.83
 
 
+![alt text](https://github.com/sebbelebbe/vectors/blob/main/boat.png)
+
 
 
 
