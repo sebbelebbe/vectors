@@ -12,6 +12,21 @@ point a = 4,3 point b= 7,8 vector = 3,5
 
 ![alt text](https://github.com/sebbelebbe/vectors/blob/main/boat.png)
 
+## (d) What is the resulting vector of their combined pull ~res?
+res = (7,0)
+
+## (e) Given three vectors, ~a = (3/2), ~b =(5/1) , ~c =(−2/6) calculate
+
+### 1. ~a +~b 
+(3/2) + (5,1) = (8/3)
+### 2. ~b + ~c 
+(5/1) +  (-2/6) = (3/7)
+### 3. (~a +~b) + ~c
+((3/2) + (5,1)) + (-2/6) = (6/9)
+### 4. ~a + (~b + ~c)
+(3/2) + ((5/1)(-2/6)) = (6/9) 
+### 5. ~b + ~a
+(-2/6) + (5/1) = (3/7)
 
 
 
